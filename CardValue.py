@@ -2,10 +2,10 @@ from enum import Enum
 
 class CardValue(Enum):
     SEVEN = 7
-    EIGHT = 7
-    NINE = 7
-    TEN = 7
-    JACK = 7
-    QUEEN = 7
-    KING = 7
-    ACE = 7
+    EIGHT = 8
+    NINE = 9
+    TEN = 10
+    JACK = 11
+    QUEEN = 12
+    KING = 13
+    ACE = 1
