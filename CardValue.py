@@ -1,5 +1,6 @@
 from enum import Enum
 
+
 class CardValue(Enum):
     SEVEN = 7
     EIGHT = 8
